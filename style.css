@@ -1,0 +1,30 @@
+.sect {
+            width: 100vw;
+            display: flex;
+            justify-content: center;
+            margin-bottom: 20px;
+        }
+
+        .sect-1 {
+            width: 80%;
+            height: 30vh;
+            background: white;
+            display: flex;
+            justify-content: center;
+        }
+
+        .sect-2 {
+            width: 80%;
+            height: 30vh;
+            background: white;
+            display: flex;
+            justify-content: center;
+        }
+
+        .sect-3 {
+            width: 80%;
+            height: 30vh;
+            background: white;
+            display: flex;
+            justify-content: center;
+        }
